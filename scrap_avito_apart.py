@@ -1,6 +1,5 @@
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
-from bs4 import BeautifulSoup
 import pandas as pd
 import time
 
